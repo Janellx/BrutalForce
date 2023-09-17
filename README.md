@@ -1,10 +1,16 @@
 <h1>Brutal Force Generator</h1>
 
 <h2>Description</h2>
-In this project, I created a random password generator using HTML, CSS, and Javascript. This project will generate a strong password using uppercase, numbers, and/or symbols. 
-The user is given the option to create the length of the password, using the slide bar or input a value.
-<br/>
+With Python, I created a Brutal Force Processer that will crack passwords through brutal force attack. This type of attack is a method in cybersecurity to gain unapproved access for encrypted data, financial gain, or even gaining control of the system. This project will demonstrate the importance of having a secure passwords. When creating a password the user have to consider the following:
+<br>
 
+- <b>Length</b>
+- <b>Complexity</b>
+- <b>Avoid Dictionary Words</b>
+- <b>Repeated Passwords</b>
+- <b>Randomness</b> <br>
+
+With this project, the user will be able to perceive how long, in seconds, and the amount of attempts it will need for the program to figure out the user's password. 
 
 <h2>Languages and Utilities Used</h2>
 
@@ -18,18 +24,18 @@ The user is given the option to create the length of the password, using the sli
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch index.html : 
+Launch BrutalForce.py : 
 <br/>
 <br/>
-<img src="https://i.imgur.com/TIZ3LzS.png" height="80%" width="80%" alt="s"/>
+<img src="https://i.imgur.com/5gaM6Fi.png" height="80%" width="80%" alt="s"/>
 <br />
 <br />
 
 <p align = "center">
-Move slider to desired length:
+Go to Run > Run Module or press F5:
 <br/>
 <br/>
-<img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHYzOWs3M281cXczenRyamNrcmtqeHFoOXIxNXNjY3loeXp3Mjl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HSnLYV5bIhLDyYnYde/giphy.gif" height="80%" width="80%" alt="s"/>
+<img src ="https://i.imgur.com/BFF41cE.png" height="80%" width="80%" alt="s"/>
 <br />
 <br />
 
