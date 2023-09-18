@@ -27,7 +27,7 @@ With this project, the user will be able to perceive how long, in seconds, and t
 Launch BrutalForce.py : 
 <br/>
 <br/>
-<img src="https://i.imgur.com/5gaM6Fi.png" height="80%" width="80%" alt="s"/>
+<img src="https://i.imgur.com/5gaM6Fi.png" height="80%" width="80%" alt="file"/>
 <br />
 <br />
 
@@ -35,11 +35,22 @@ Launch BrutalForce.py :
 Go to Run > Run Module or press F5:
 <br/>
 <br/>
-<img src ="https://i.imgur.com/BFF41cE.png" height="80%" width="80%" alt="s"/>
+<img src ="https://i.imgur.com/LrnErMf.png" height="80%" width="80%" alt="run"/>
 <br />
 <br />
 
 <p align = "center">
-Select your options:
+Enter your password:
 <br/>
 <br/>
+<img src ="https://i.imgur.com/eJ8G84P.png" height="60%" width="60%" alt="Password"/>
+<br />
+<br />
+
+<p align = "center">
+Results:
+<br/>
+<br/>
+<img src ="https://i.imgur.com/vc1uado.png" height="60%" width="60%" alt="Results"/>
+<br />
+<br />
