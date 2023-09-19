@@ -1,7 +1,7 @@
 <h1>Brutal Force Generator</h1>
 
 <h2>Description</h2>
-With Python, I created a Brutal Force Processer that will crack passwords through brutal force attack. This type of attack is a method in cybersecurity to gain unapproved access to encrypted data, financial gain, or even gain control of the system. With this project, the user will be able to perceive how long, in seconds, and the number of attempts it will need for the program to figure out the user's password. This project will demonstrate the importance of having a secure password. When creating a password the user has to consider the following:
+With Python, I created a Brutal Force Generator that will crack passwords through brutal force attack. This type of attack is a method in cybersecurity to gain unapproved access to encrypted data, financial gain, or even gain control of the system. With this project, the user will be able to perceive how long, in seconds, and the number of attempts it will need for the program to figure out the user's password. This project will demonstrate the importance of having a secure password. When creating a password the user has to consider the following:
 <br>
 
 - <b>Length</b>
